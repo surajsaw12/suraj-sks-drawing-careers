@@ -51,3 +51,10 @@ python -m http.server 8000
 ```
 
 Then open `http://localhost:8000/`.
+
+
+## Career profile content update
+- The catalogue contains 30 categories and 268 career entries.
+- Each career profile now selects a specialist learning pathway (for example: spatial design, technical drafting, fashion, jewellery, character art, fine art, illustration, decorative art, 3D, transportation, graphic design or product design).
+- Profile pages include role overview, career-specific skills, workflow, reference images, tools, good practice, a portfolio exercise and a learning roadmap.
+- Career and category cards request topic-related reference photography using a distinct query/lock for each career. These images are supplied by an external photo service and require an internet connection. For a permanent public educational resource, replace external image results with original or properly licensed images and verify image suitability before publishing.
